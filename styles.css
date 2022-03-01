@@ -3,10 +3,9 @@
 }
 
 .wrapper {
-    display: grid;
-    grid-gap : 10px;
+    
     background-color: rgb(0, 0, 0);
     color: white;
-    border-radius: 5px;   
+   
    
 }
