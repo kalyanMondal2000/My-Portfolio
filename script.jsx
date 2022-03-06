@@ -1,4 +1,4 @@
-const findName = (name) =>{
+const findName = () =>{
     const name = window.prompt("Hello! What is you name?")
     return (<h1>Welcome {name}!</h1>)
 }
