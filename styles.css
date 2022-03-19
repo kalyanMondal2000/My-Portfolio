@@ -6,7 +6,7 @@ body{
 .wrapper{
     background-color: #fff;
     color: #444;
-    
+    text-align: left;
     border-radius: 5px;
     font-size: 150%;
     grid-template-columns: 120px 120px 120px;
