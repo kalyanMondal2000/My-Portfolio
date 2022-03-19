@@ -5,3 +5,17 @@ html {
 body{
     font-family: sans-serif;
 }
+
+.wrapper{
+    background-color: #fff;
+    color: #444;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 150%;
+    grid-template-columns: 120px 120px 120px;
+    grid-template-areas:
+    ' header header header'
+    'content content content'
+    'footer footer footer';
+
+}
