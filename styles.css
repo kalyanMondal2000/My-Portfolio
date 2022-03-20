@@ -35,3 +35,8 @@ button{
     background-color: #34568B;
     text-align: center;
 }
+
+.footer{
+    grid-area: footer; 
+    
+}
