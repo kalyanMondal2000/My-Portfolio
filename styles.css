@@ -27,6 +27,7 @@ button{
     padding: 10px;
     background-color: deepskyblue;
     font-size: 24px;
+    border-radius: 5px;
 }
 
 .content{
@@ -35,25 +36,30 @@ button{
     background-color: #34568B;
     text-align: center;
     color: #fff;
+    border-radius: 5px;
 }
 
 .footer{
     grid-area: footer; 
    
   background-color:#34568B;
+  border-radius: 5px;
 }
 .welcome{
    text-align: center; 
 }
 .pac{
-    background-color: #34568B;
+    
     padding: 10px
+    
 }
 .map{
-    background-color: #34568B;
+    
     padding: 10px
+    
 }
 .eyes{
-    background-color: #34568B;
+    
     padding: 10px
+    
 }
