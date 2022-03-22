@@ -51,7 +51,7 @@ button{
 
 
 .footer {
-    color: white;
+    color: #444;
     display: flex;
     justify-content: space-between;
     margin-left: 350px;
@@ -59,6 +59,6 @@ button{
 }
 
 .footer a {
-    color: white;
+    color: #444;
     padding-right: 20px;
 }
