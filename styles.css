@@ -48,21 +48,7 @@ button{
 .welcome{
    text-align: center; 
 }
-.pac{
-    background-color: royalblue;
-    padding: 10px
-    
-}
-.map{
-    background-color: dodgerblue;
-    padding: 10px
-    
-}
-.eyes{
-    background-color: steelblue;
-    padding: 10px
-    
-}
+
 
 .footer {
     color: white;
