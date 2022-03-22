@@ -63,3 +63,16 @@ button{
     padding: 10px
     
 }
+
+.footer {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.footer a {
+    color: white;
+    padding-right: 20px;
+}
