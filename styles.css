@@ -39,18 +39,14 @@ button{
     border-radius: 5px;
 }
 
-.footer{
-    grid-area: footer; 
-   
-  
-  border-radius: 5px;
-}
+
 .welcome{
    text-align: center; 
 }
 
 
 .footer {
+    grid-area: footer;
     color: #444;
     display: flex;
     justify-content: space-between;
