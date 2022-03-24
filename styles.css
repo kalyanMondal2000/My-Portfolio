@@ -46,16 +46,11 @@ button{
 
 .footer {
     grid-area: footer;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: deepskyblue;
-    color: #444;
-    text-align: left;
-    clear: both;
-    position: relative;
-    height: 200px;
-    margin-top: -200px;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:deepskyblue;
 }
 
 .Github{
