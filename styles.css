@@ -37,7 +37,6 @@ button{
     text-align: center;
     color: #fff;
     border-radius: 5px;
-    
     display: flex;
     flex-direction: column;
 }
