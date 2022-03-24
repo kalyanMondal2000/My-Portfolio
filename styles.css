@@ -27,9 +27,7 @@ button{
     padding: 10px;
     background-color: deepskyblue;
     border-radius: 5px;
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+
 }
 
 .content{
@@ -39,6 +37,9 @@ button{
     text-align: center;
     color: #fff;
     border-radius: 5px;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 
