@@ -52,6 +52,7 @@ button{
     grid-area: footer;
     margin-top: auto;
     background:deepskyblue;
+    border-radius: 5px;
 }
 
 .Github{
