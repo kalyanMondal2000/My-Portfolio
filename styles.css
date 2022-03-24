@@ -26,7 +26,7 @@ button{
     grid-area: header;
     padding: 10px;
     background-color: deepskyblue;
-    
+    border-radius: 5px;
 }
 
 .content{
@@ -35,6 +35,7 @@ button{
     background-color: #34568B;
     text-align: center;
     color: #fff;
+    border-radius: 5px;
 }
 
 
@@ -49,8 +50,8 @@ button{
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
-    color: white;
-    text-align: center;
+    background-color: deepskyblue;
+    color: #444;
+    text-align: left;
 }
 
