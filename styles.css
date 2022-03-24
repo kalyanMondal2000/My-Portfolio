@@ -37,7 +37,7 @@ button{
     text-align: center;
     color: #fff;
     border-radius: 5px;
-    min-height: 50vh;
+    
     display: flex;
     flex-direction: column;
 }
