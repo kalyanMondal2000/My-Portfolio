@@ -67,4 +67,6 @@ img{
 .description{
     background-color: #34568B;
     border-radius: 5px;
+    padding: 10px;
+    color: white;
 }
